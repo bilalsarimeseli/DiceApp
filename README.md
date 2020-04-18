@@ -1,2 +1,2 @@
 # DiceApp
-As simple as possible
+A very simple JavaScript Fun
